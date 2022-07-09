@@ -139,28 +139,8 @@
    - 성공적으로 출시되었습니다!
    - [<img src="https://user-images.githubusercontent.com/72292617/175788259-834fade7-30e3-4d7b-969d-06a38ab33fb2.png" width=300 height=100>](https://apps.apple.com/us/app/몽실-mong-seal/id1622154270)   
 
- ### issues
-  - 1. datePicker 뷰 구현 ( core에서 currentDate를 바인딩 시키면서 해야할거 같음)</br>
-  - 2. datePicker 버튼을 String으로 맞춰주기( DatePicker 뷰에서 같이 해줘야 할 거 같음!)</br>
-  - 3. 글자 수 제한 마지막 글자를 더 치면 삭제하게 구현하는게 괜찮은지? ( 지금 함수 로직은 문제가 없다고 생각하고 removelast쪽을 바꿔줘야할거 같음)</br>
-  - 4. 키보드를 띄웠을 때 화면이 같이 올라가는게 맞는 것인지? (아니면 그걸 막는 방법이 있는지?)</br>
-     - Solution: 화면을 같이 안 올라가게 설정해줄 수 있음</br>
-  - 5. layout을 맞춰줄때 counttextfieled 같은 경우 위에 200 아래 300 이면 알아서 offset으로 비율을 ratio로 내가 계산해서 잡아주는것인지?( 예를들어 좌표로 300, 200) 이런식으로 잡으면 다른 기기에선 다르게 뜰테니?)</br>
-     - Solution: 각 기기별로 화면 크기가 다를테니 padding으로 잡아주는 것이 안정적임</br?
-   - 6. 키보드를 내려주는 액션(빈공간을 선택시)</br>
-      - <img width="300" alt="image" src="https://user-images.githubusercontent.com/77050826/168096147-f71f4622-724b-4c3b-9d4e-e148bb697a0c.png"></br>
-      - <img width="292" alt="image" src="https://user-images.githubusercontent.com/77050826/168096224-31b78981-72cd-408b-88e3-ae130590250b.png"></br>
-   - 7. keybord에 버튼을 toolbar로 추가 -> 각 키보드 별로하는 것이 가능할까?</br>
-      - 가능은 하나 너무 많은 시간이 소요됨 -> 안하기로 결정 </br>
-   - 8. 이미지를 잡고 색상을 변경해주고 싶을떄
-      - <img width="259" alt="image" src="https://user-images.githubusercontent.com/77050826/168626470-55a4f9f5-8f68-4138-b855-38e99bd770cf.png">
-   - 9. Diarycount가 제대로 작동하지 않을 때</br>
-      - https://github.com/MoSonLee/swiftUI_Combine_TCA/issues/11#issue-1276452109</br>
-   - 10. API를 연결해 Diary를 받아올 때 때 발생한 네트워크 오류</br>
-      - https://github.com/MoSonLee/swiftUI_Combine_TCA/issues/10#issue-1272169951
-   - 11. 화원가입 실패 -> 로그인 성공 -> toast message가 뜬 후에 기능 이용이 불가능한 오류(모든 디바이스에서 발생하는 것이 아니라 판단하기가 까다로움)
-현재 회원가입, 로그인 로직 문제인지 서버측 회원가입 문제인지 판단이 불가함 -> 해결완료</br>
-      - https://github.com/MoSonLee/swiftUI_Combine_TCA/issues/13#issue-1290169354
+ ### issues⚠️
+   - [Tca 아키텍쳐로 화면 구현시 다른 뷰를 불러올 때 나타나는 오류](https://github.com/MoSonLee/SwiftUI/issues/1)</br>
       
 ### 디프만 수료완료 💫
    - ![image](https://user-images.githubusercontent.com/77050826/177043434-c9895fe3-57f5-4774-a37e-ff1d4f1566cc.png)

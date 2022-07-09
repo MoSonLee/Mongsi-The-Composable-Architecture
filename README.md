@@ -1,9 +1,9 @@
 # Mongsi + The Composable Architecture
 
- ## MONGSIL PROJECT 
- ### [Mongsil](https://github.com/depromeet/mongsil-iOS) 
+  ### [Mongsil](https://github.com/depromeet/mongsil-iOS) 
+   - [<img src="https://user-images.githubusercontent.com/72292617/175788259-834fade7-30e3-4d7b-969d-06a38ab33fb2.png" width=300 height=100>](https://apps.apple.com/us/app/몽실-mong-seal/id1622154270)
    - Mongsil Project 다이어그램</br>
-      - ![image](https://user-images.githubusercontent.com/77050826/163538697-42d666d6-5054-4c4e-aa08-abed329e1b90.png)</br>
+       ![image](https://user-images.githubusercontent.com/77050826/163538697-42d666d6-5054-4c4e-aa08-abed329e1b90.png)</br>
    - 화면 변환 버튼 구현 완료</br>
    - 초기 화면 구현</br>
    ![Simulator Screen Recording - iPhone 12 - 2022-04-14 at 00 47 03](https://user-images.githubusercontent.com/77050826/163227703-cba64956-d2c1-4992-a8c1-3791c9099d67.gif)</br>

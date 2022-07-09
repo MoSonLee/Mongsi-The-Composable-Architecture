@@ -140,7 +140,15 @@
    - [<img src="https://user-images.githubusercontent.com/72292617/175788259-834fade7-30e3-4d7b-969d-06a38ab33fb2.png" width=300 height=100>](https://apps.apple.com/us/app/몽실-mong-seal/id1622154270)   
 
  ### issues⚠️
-   - [Tca 아키텍쳐로 화면 구현시 다른 뷰를 불러올 때 나타나는 오류](https://github.com/MoSonLee/SwiftUI/issues/1)</br>
+   - [Tca) 아키텍쳐로 화면 구현시 다른 뷰를 불러올 때 나타나는 오류](https://github.com/MoSonLee/SwiftUI/issues/1)</br>
+   - [TCA button을 눌러 View 전환시키기](https://github.com/MoSonLee/SwiftUI/issues/2)</br>
+   - [SwiftUI) navigationbar을 hidden 해도 사라지지 않을 때](https://github.com/MoSonLee/SwiftUI/issues/3)</br>
+   - [TCA) BackButton을 눌렀을 때 이전 화면으로 돌아가게 구현](https://github.com/MoSonLee/SwiftUI/issues/4)</br>
+   - [TCA) optional 형태의 state를 받아올때 생기는 문제](https://github.com/MoSonLee/SwiftUI/issues/5)</br>
+   - [Combine) API를 연결해 Diary를 받아올 때 때 발생한 네트워크 오류)](https://github.com/MoSonLee/SwiftUI/issues/10)<br>
+   - [TCA_ Diary가 제대로 Count 되지 않는 오류](https://github.com/MoSonLee/SwiftUI/issues/11)</br>
+   - [TCA + Combine) Mongsil 로그인 관련 이슈](https://github.com/MoSonLee/SwiftUI/issues/12)</br>
+   - [몽실 화원 가입 후 서비스 이용이 불가한 오류](https://github.com/MoSonLee/SwiftUI/issues/13)</br>
       
 ### 디프만 수료완료 💫
    - ![image](https://user-images.githubusercontent.com/77050826/177043434-c9895fe3-57f5-4774-a37e-ff1d4f1566cc.png)

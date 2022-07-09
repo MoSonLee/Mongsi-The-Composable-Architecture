@@ -1,6 +1,6 @@
 # Mongsi + The Composable Architecture
 
-  ### [Mongsil](https://github.com/depromeet/mongsil-iOS) 
+  ### [Mongsil repo](https://github.com/depromeet/mongsil-iOS) 
    - [<img src="https://user-images.githubusercontent.com/72292617/175788259-834fade7-30e3-4d7b-969d-06a38ab33fb2.png" width=300 height=100>](https://apps.apple.com/us/app/몽실-mong-seal/id1622154270)
    - Mongsil Project 다이어그램</br>
        ![image](https://user-images.githubusercontent.com/77050826/163538697-42d666d6-5054-4c4e-aa08-abed329e1b90.png)</br>
